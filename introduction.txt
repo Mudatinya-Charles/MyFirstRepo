@@ -1,0 +1,3 @@
+# Brief Introduction About Myself
+Hello! My name is Mudatinya Charles. I am currently learning GitHub as part of my journey into software development and version control. I enjoy exploring new technologies and building practical solutions.
+Outside of tech, I love reading, collaborating with others, and continuously learning new things. I’m excited to apply what I learn here to future coding projects.
