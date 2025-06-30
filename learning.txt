@@ -12,4 +12,4 @@ Push changes to a remote repository and open a pull request (PR) on GitHub to pr
 
 Write structured content like a list of personal and academic goals using clear formatting and appropriate headings.
 
-Through this process, I gained confidence in using Git for version control, managing branches, and collaborating effectively via GitHub—all of which are crucial skills for any software developer.
+Through this process, I gained confidence in using Git for version control, managing branches, and collaborating effectively via GitHub—all of which are crucial skills for any software developer
